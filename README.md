@@ -7,7 +7,6 @@
   
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Hartty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Yorick-pic" height="150" style="border-radius:50px;" src="./imagem/yorick.png">
 </div>
   
